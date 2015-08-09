@@ -96,4 +96,5 @@
     </array>
 </dict>
 </plist>
-//To hide your app from the Simulator's Privacy Settings screens, replace com.apple.private.tcc.allow.overridable with com.apple.private.tcc.allow.
+//To hide your app from the Simulator's Privacy Settings screens, 
+//replace com.apple.private.tcc.allow.overridable with com.apple.private.tcc.allow.
